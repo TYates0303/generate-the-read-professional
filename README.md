@@ -25,7 +25,7 @@ Met the following criteria:
 ***
 ## Installation
 ( Standard Node Project Installation )
-1. Download the code from my [GitHub Repo](https://github.com/its-jefe/GitHub-README-Generator) and unzip.
+1. Download the code from my [GitHub Repo](https://github.com/TYates0303/generate-the-read-professional) and unzip.
 
 2. Install dependencies using "npm install". (Make sure you are in the project directory)
 

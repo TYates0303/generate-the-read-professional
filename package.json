@@ -6,16 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jeff Timson",
-  "license": "ISC",
+  "author": "Thomas Yates",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/while-alive/Professional-README-Generator.git"
+    "url": "https://git@github.com:TYates0303/generate-the-read-professional.git"
   },
-  "bugs": {
-    "url": "https://github.com/while-alive/Professional-README-Generator/issues"
-  },
-  "homepage": "https://github.com/while-alive/Professional-README-Generator#readme",
+ 
+  "homepage": "https://tyates0303.github.io/generate-the-read-professional/",
   "devDependencies": {},
   "dependencies": {
     "ansi-escapes": "^4.3.2",

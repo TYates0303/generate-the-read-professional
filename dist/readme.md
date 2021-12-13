@@ -1,9 +1,6 @@
 # GitHub README Generator
 
-https://github.com/its-jefe
-
-![Analysis](https://img.shields.io/github/languages/top/its-jefe/github-readme-generator)
-![License](https://img.shields.io/github/license/its-jefe/github-readme-generator)
+https://github.com/TYates0303/generate-the-read-professional
   
 ## Description
 This application uses command line prompts to generate a readme.md
@@ -27,7 +24,3 @@ This application is covered under the GNU General Public License v3.0
 ## Tests
 No test files at this time but am working on it
 
-## Questions
-If there are any additional questions send me an email! 
-
-jeff.timson@yahoo.com
